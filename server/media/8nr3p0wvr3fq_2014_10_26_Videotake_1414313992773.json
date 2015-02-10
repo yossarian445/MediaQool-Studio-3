@@ -1,0 +1,28 @@
+{
+  "thumbnailsData": [
+    {
+      "path": "/8nr3p0wvr3fq_2014_10_26_Videotake_1414313992773/thumbnails.png#xywh=0,0,150,100",
+      "from": "00:00:00.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 0,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:04.000"
+    },
+    {
+      "path": "/8nr3p0wvr3fq_2014_10_26_Videotake_1414313992773/thumbnails.png#xywh=0,102,150,100",
+      "from": "00:00:04.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 102,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:07.296"
+    }
+  ]
+}

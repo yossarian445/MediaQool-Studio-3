@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <title>MediaQool Studio 3</title>
+    <meta charset="UTF-8">
+
+    <!-- external libraries -->
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src="lib_ion.rangeSlider.min.js"></script>
+    <script src="lib_moment.min.js"></script>
+
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="lib_style_ion.rangeSlider.css">
+    <link rel="stylesheet" href="style_normalize.css">
+    <link rel="stylesheet" href="lib_style_ion.rangeSlider.skinFlat.css">
+    <link rel="stylesheet" type="text/css" href="viewSelectionStyle.css">
+    <link rel="stylesheet" type="text/css" href="style_mainStyles.css">
+
+    <script src="config.js"></script>
+    <script src="config_client.js"></script>
+    <script src="util_map.js"></script>
+    <script src="viewSelectionController.js"></script>
+    <script src="util_timeAndDate.js"></script>
+    <script>
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+
+</head>
+<body>
+
+
+<div id="page-one-content">
+
+    <div id="header" style="text-align:center;"><img src="img_logo.png"></div>
+
+    <div id="date-picking-stuff-div">
+        <div style="flex: 1; text-align: center;">
+            <p><input type="text" id="datepicker"></p>
+        </div>
+    </div>
+
+    <div id="slider-container">
+        <div class="checkboxDiv">
+            <input type="checkbox" id="another-day-left">
+            <label id="adl-label" for="another-day-left"></label>
+        </div>
+        <input id="slider">
+        <div class="checkboxDiv">
+            <input type="checkbox" id="another-day-right">
+            <label id="adr-label" for="another-day-right"></label>
+        </div>
+    </div>
+
+    <div id="map-stuff-div"></div>
+
+    <img id="load-indicator" src="img_load-indicator.gif">
+
+    <button id="nextButton" type="button" style="width: 200px; height: 40px"></button>
+
+</div>
+
+</body>
+</html>

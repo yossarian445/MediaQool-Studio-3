@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title>MediaQool Studio 3</title>
+
+    <link rel="stylesheet" type="text/css" href="viewTimeLineStyle.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+     <script src="lib_angular.min.js"></script>
+    <script src="viewTimeLineController.js"></script>
+    <script src="data_videoElementItem.js"></script>
+    <script src="lib_fileSaver.js"></script>
+    <script src="util_xml.js"></script>
+    <link rel="stylesheet" type="text/css" href="style_mainStyles.css">
+
+</head>
+<body>
+<div id="header"><a href="viewSelection.html"><img src="img_logo.png" height="30px"></a></div>
+<div id="page-content" ng-controller="TimeSliderController">
+    <!-- Four main div containers!
+    1) indicator line that moves over the video elements (synchronized with time slider)
+    2) the the time slider
+    3) element list of video elements
+    4) footer for buttons
+    -->
+    <div id="time-indicator-line" class="indicator" ></div>
+
+    <div id="time-slider-container" style="overflow: hidden">
+            <div id="slider" class="slider-adjust" style="min-width: 387px !important;"></div>
+    </div>
+
+
+    <div id="element-table-container" style="overflow: auto; overflow-x: hidden">
+
+        <!-- ul list: each li item represents a single video element with select/deselect button & progress bar & thumbnail preview -->
+        <ul class="list-group">
+            <li class="list-group-item" ng-repeat="videoElementItem in videoElementList" ng-click="checkNumberOfCheckboxes($event)">
+
+                <!-- the "media" div divides each list element into three subcontainers  -->
+                <div class="media">
+                    <!-- media left contains the select/deselect button -->
+                    <a class="media-left" href="#" style="margin: 10px; "  >
+
+                        <input id="checkbox{{$index}}"  type="checkbox" style="margin-top: 44px">
+
+                    </a>
+                    <!-- media body contains the progress bar (used to show the duration of the video) -->
+                    <div class="media-body" style="">
+                        <p class="userP" id="videoId{{$index}}" style="margin-top: 5px;">User: <em>{{videoElementItem.MQuser}}</em></p>
+                        <p class="durationP">Duration: {{videoElementItem.videoDurationMIN }}.{{videoElementItem.videoDurationSec }} min</p>
+
+                        <div class="progress" style="">
+                            <div id="stubElement{{$index}}" class="customized-progress-bar" style="width: 5%">
+                                <span class="sr-only"></span>
+                            </div>
+                            <div id="element{{$index}}" class="progress-bar progress-bar-success progress-bar-striped" style="width: 25%">
+                                <span class="sr-only"></span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- media right contains the thumbnail preview of the video -->
+                    <div class="media-right">
+                        <!--img data-src="holder.js/64x64" alt="Generic placeholder image" height="100px" width="100px"-->
+                        <div id="image{{$index}}" style="background-color:#000000; border:0; height: 100px; width: 150px" ></div>
+                    </div>
+                </div>
+
+
+            </li>
+
+        </ul>
+
+
+
+    </div>
+
+    <!-- footer panel for buttons -->
+    <div id="button-container">
+        <button id="xmlVideoButton" type="button" style="float: right; margin-left: 10px">Generate XML & Download Videos!</button>
+        <button id="xmlButton" type="button" style="float: right; ">Generate XML!</button>
+        <label id="selectedLabel" style="float: right; margin-right: 10px; margin-top: 10px">Videos selected: 0</label>
+
+    </div>
+
+</div>
+
+
+
+
+</body>
+</html>

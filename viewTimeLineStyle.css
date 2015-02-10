@@ -1,0 +1,76 @@
+
+
+#page-content {
+    display:flex;
+    position: fixed;
+    right: 40px;
+    left: 40px;
+    top: 40px;
+    bottom: 40px;
+    border: 1px solid lightgray;
+    background-color: #EEEEEE;
+    flex-direction: column;
+}
+
+#time-slider-container {
+    flex: 2 10%;
+    margin: 5px;
+    min-height: 65px;
+    /*background-color: #770000;*/
+}
+
+#element-table-container {
+    flex: 1 100%;
+    margin: 5px;
+    /*background-color: #00A000;*/
+}
+
+#button-container {
+    flex: 3 5%;
+    margin: 5px;
+}
+
+.slider-adjust {
+    top: 25px;
+    margin-left: 40px;
+    margin-right: 190px;
+}
+
+#slider label {
+    position: absolute;
+    width: 300px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: -10px;
+    text-align: left;
+    font-size: 10px;
+}
+
+.indicator {
+    content: '';
+    width: 0;
+    height: 90%;
+    position: absolute;
+    border: 1px solid black;
+    top: 6%;
+    left: 50%;
+    z-index: 100;
+}
+
+/* used to make the time line section BEFORE the colored section look "empty" */
+
+.customized-progress-bar {
+    float: left;
+    width: 0;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #EEEEEE;
+    /*-webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .15);*/
+    -webkit-transition: width .6s ease;
+    -o-transition: width .6s ease;
+    transition: width .6s ease;
+}

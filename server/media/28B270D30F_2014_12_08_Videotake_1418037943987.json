@@ -1,0 +1,1084 @@
+{
+  "thumbnailsData": [
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,0,150,100",
+      "from": "00:00:00.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 0,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:04.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7446,150,100",
+      "from": "00:00:04.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7446,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:08.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8568,150,100",
+      "from": "00:00:08.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8568,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:12.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,612,150,100",
+      "from": "00:00:12.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 612,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:16.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1734,150,100",
+      "from": "00:00:16.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1734,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:20.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2856,150,100",
+      "from": "00:00:20.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2856,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:24.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3978,150,100",
+      "from": "00:00:24.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3978,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:28.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5100,150,100",
+      "from": "00:00:28.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5100,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:32.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6222,150,100",
+      "from": "00:00:32.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6222,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:36.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7344,150,100",
+      "from": "00:00:36.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7344,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:40.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7548,150,100",
+      "from": "00:00:40.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7548,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:44.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7650,150,100",
+      "from": "00:00:44.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7650,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:48.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7752,150,100",
+      "from": "00:00:48.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7752,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:52.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7854,150,100",
+      "from": "00:00:52.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7854,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:00:56.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7956,150,100",
+      "from": "00:00:56.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7956,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:00.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8058,150,100",
+      "from": "00:01:00.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8058,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:04.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8160,150,100",
+      "from": "00:01:04.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8160,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:08.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8262,150,100",
+      "from": "00:01:08.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8262,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:12.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8364,150,100",
+      "from": "00:01:12.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8364,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:16.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8466,150,100",
+      "from": "00:01:16.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8466,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:20.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8670,150,100",
+      "from": "00:01:20.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8670,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:24.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8772,150,100",
+      "from": "00:01:24.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8772,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:28.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8874,150,100",
+      "from": "00:01:28.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8874,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:32.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,8976,150,100",
+      "from": "00:01:32.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 8976,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:36.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,9078,150,100",
+      "from": "00:01:36.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 9078,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:40.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,102,150,100",
+      "from": "00:01:40.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 102,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:44.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,204,150,100",
+      "from": "00:01:44.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 204,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:48.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,306,150,100",
+      "from": "00:01:48.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 306,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:52.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,408,150,100",
+      "from": "00:01:52.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 408,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:01:56.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,510,150,100",
+      "from": "00:01:56.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 510,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:00.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,714,150,100",
+      "from": "00:02:00.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 714,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:04.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,816,150,100",
+      "from": "00:02:04.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 816,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:08.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,918,150,100",
+      "from": "00:02:08.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 918,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:12.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1020,150,100",
+      "from": "00:02:12.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1020,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:16.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1122,150,100",
+      "from": "00:02:16.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1122,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:20.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1224,150,100",
+      "from": "00:02:20.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1224,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:24.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1326,150,100",
+      "from": "00:02:24.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1326,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:28.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1428,150,100",
+      "from": "00:02:28.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1428,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:32.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1530,150,100",
+      "from": "00:02:32.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1530,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:36.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1632,150,100",
+      "from": "00:02:36.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1632,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:40.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1836,150,100",
+      "from": "00:02:40.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1836,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:44.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,1938,150,100",
+      "from": "00:02:44.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 1938,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:48.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2040,150,100",
+      "from": "00:02:48.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2040,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:52.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2142,150,100",
+      "from": "00:02:52.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2142,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:02:56.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2244,150,100",
+      "from": "00:02:56.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2244,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:00.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2346,150,100",
+      "from": "00:03:00.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2346,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:04.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2448,150,100",
+      "from": "00:03:04.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2448,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:08.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2550,150,100",
+      "from": "00:03:08.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2550,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:12.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2652,150,100",
+      "from": "00:03:12.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2652,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:16.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2754,150,100",
+      "from": "00:03:16.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2754,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:20.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,2958,150,100",
+      "from": "00:03:20.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 2958,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:24.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3060,150,100",
+      "from": "00:03:24.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3060,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:28.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3162,150,100",
+      "from": "00:03:28.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3162,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:32.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3264,150,100",
+      "from": "00:03:32.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3264,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:36.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3366,150,100",
+      "from": "00:03:36.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3366,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:40.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3468,150,100",
+      "from": "00:03:40.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3468,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:44.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3570,150,100",
+      "from": "00:03:44.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3570,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:48.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3672,150,100",
+      "from": "00:03:48.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3672,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:52.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3774,150,100",
+      "from": "00:03:52.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3774,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:03:56.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,3876,150,100",
+      "from": "00:03:56.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 3876,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:00.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4080,150,100",
+      "from": "00:04:00.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4080,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:04.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4182,150,100",
+      "from": "00:04:04.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4182,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:08.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4284,150,100",
+      "from": "00:04:08.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4284,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:12.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4386,150,100",
+      "from": "00:04:12.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4386,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:16.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4488,150,100",
+      "from": "00:04:16.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4488,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:20.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4590,150,100",
+      "from": "00:04:20.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4590,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:24.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4692,150,100",
+      "from": "00:04:24.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4692,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:28.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4794,150,100",
+      "from": "00:04:28.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4794,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:32.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4896,150,100",
+      "from": "00:04:32.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4896,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:36.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,4998,150,100",
+      "from": "00:04:36.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 4998,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:40.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5202,150,100",
+      "from": "00:04:40.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5202,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:44.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5304,150,100",
+      "from": "00:04:44.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5304,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:48.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5406,150,100",
+      "from": "00:04:48.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5406,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:52.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5508,150,100",
+      "from": "00:04:52.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5508,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:04:56.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5610,150,100",
+      "from": "00:04:56.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5610,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:00.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5712,150,100",
+      "from": "00:05:00.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5712,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:04.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5814,150,100",
+      "from": "00:05:04.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5814,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:08.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,5916,150,100",
+      "from": "00:05:08.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 5916,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:12.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6018,150,100",
+      "from": "00:05:12.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6018,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:16.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6120,150,100",
+      "from": "00:05:16.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6120,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:20.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6324,150,100",
+      "from": "00:05:20.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6324,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:24.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6426,150,100",
+      "from": "00:05:24.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6426,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:28.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6528,150,100",
+      "from": "00:05:28.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6528,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:32.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6630,150,100",
+      "from": "00:05:32.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6630,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:36.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6732,150,100",
+      "from": "00:05:36.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6732,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:40.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6834,150,100",
+      "from": "00:05:40.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6834,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:44.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,6936,150,100",
+      "from": "00:05:44.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 6936,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:48.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7038,150,100",
+      "from": "00:05:48.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7038,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:52.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7140,150,100",
+      "from": "00:05:52.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7140,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:56.000"
+    },
+    {
+      "path": "/28B270D30F_2014_12_08_Videotake_1418037943987/thumbnails.png#xywh=0,7242,150,100",
+      "from": "00:05:56.000",
+      "metaData": {
+        "posX": 0,
+        "posY": 7242,
+        "width": 150,
+        "height": 100,
+        "fps": 30
+      },
+      "to": "00:05:59.212"
+    }
+  ]
+}

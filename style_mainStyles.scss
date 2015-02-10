@@ -1,0 +1,267 @@
+$fontFamily: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+$fontColor: #EFEFEF;
+$bc: #333333;
+$btnc: #64B94C;
+$btnRadius: 5px;
+$acClr: #ed5565;
+$slidrClr: #e1e4e9;
+
+@mixin grab(){
+  cursor: -webkit-grab;
+  cursor: -moz-grab;
+}
+
+@mixin grabbing(){
+  cursor: -webkit-grabbing;
+  cursor: -moz-grabbing;
+}
+
+body {
+  background-color: $bc;
+  color: $fontColor;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#page-one-content{
+  background: $bc;
+  border:none;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#map-stuff-div{
+  margin: 4px 0 0 0;
+  min-width: 250px;
+  border-radius: 5px;
+}
+
+.activeButton {
+  background-color: $btnc;
+}
+
+.inActiveButton {
+  color: rgba(51,51,51,0.5);
+  background-color: rgba(191,191,191,0.5);
+  cursor: default;
+}
+
+#date-picking-stuff-div{
+  margin: 0;
+}
+
+#datepicker{
+  background-color: $bc;
+  border-radius: 5px;
+  font-size: 1.5em;
+  text-align: center;
+  box-shadow: 0px 2px 10px #111111;
+  cursor: pointer;
+}
+
+button {
+  border-radius: $btnRadius;
+  border: 0;
+  font-size: 1em;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.9);
+  padding: 1px 6px 1px 6px;
+  height: 40px;
+  background-color: $btnc;
+  color: $fontColor;
+  font-family: $fontFamily;
+}
+
+#selectedLabel {
+
+}
+
+#slider-container{
+  display: table;
+}
+
+
+
+.irs-bar{
+  @include grab();
+}
+
+
+
+.irs-bar:active{
+  @include grabbing();
+}
+
+.irs-slider {
+  cursor: ew-resize;
+}
+
+
+.checkboxDiv{
+  display: table-cell;
+
+  input[type="checkbox"]+label {
+    background: url('img_24unchecked.png') no-repeat;
+    height:25px;
+    padding: 7px 0px 5px 30px;
+    cursor: pointer;
+
+  }
+
+  input[type="checkbox"] + label:hover {
+    background: url('img_24hover.png')  no-repeat;
+  }
+
+  input[type="checkbox"]:checked + label {
+    background: url('img_24checked.png')  no-repeat;
+  }
+
+}
+
+#adr-label{
+  margin-left: 4px;
+}
+
+#adl-label{
+  margin-right: 4px;
+}
+
+#another-day-left{
+  display: none;
+  float: left;
+  margin-right: 4px;
+}
+#another-day-right{
+  display: none;
+  float: right;
+  margin-left: 4px;
+}
+.irs-with-grid {
+  display: table-cell;
+  width: 100%;
+}
+
+#nextButton{
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 1em;
+}
+
+#load-indicator{
+  position: absolute;
+  right: 20px;
+  bottom: 30px;
+}
+
+#result{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page-content{
+  background: $bc;
+  border: none;
+}
+
+#slider label{
+  color: $fontColor;
+  font-family: $fontFamily;
+  font-size: 1em;
+
+}
+
+.ui-widget-header{
+  background: #e1e4e9;
+}
+
+.ui-widget-content{
+  background: #e1e4e9;
+}
+
+//slider anfasser
+span{
+  .ui-slider-handle{
+
+
+
+  }
+}
+span.ui-slider-handle.ui-state-default.ui-corner-all{
+
+  @include grab();
+
+  border:0;
+  box-shadow: 0px 1px 5px rgba(0,0,0,0.9);
+  background: $acClr;
+
+
+}
+
+span.ui-slider-handle.ui-state-default.ui-corner-all.ui-state-active{
+  @include grabbing();
+}
+
+#time-indicator-line{
+  z-index: 1;
+  border-color: $acClr;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.8);
+  margin-top: -10px;
+  height: 92%;
+}
+
+.indicator {
+  @extend #time-indicator-line;
+}
+
+#element-table-container{
+  li{
+    background: #3d3d3d;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 1px 4px rgba(0,0,0,.5);
+    margin-bottom: 4px;
+  }
+  li.list-group-item.ng-scope.list-group-item-active {
+    background: #4d4d4d;
+  }
+  //Verlaufsbalken
+  .progress{
+    background: #888888;
+    margin-top: 40px;
+    .customized-progress-bar {
+      background: #888888;
+    }
+
+  }
+}
+
+$videoInfoMargin: 6px;
+@mixin videoInfo(){
+  font-weight: lighter;
+  margin-top: $videoInfoMargin;
+  em {
+    font-weight: bold;
+  }
+}
+
+.userP{
+  float: left;
+  @include videoInfo();
+
+}
+.durationP{
+  @include videoInfo();
+  float: right;
+}
